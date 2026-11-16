@@ -1,0 +1,22 @@
+*:Zone.Identifier
+
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.a
+*.dll
+
+# CUDA binaries
+*.cubin
+*.fatbin
+*.ptx
+
+# Build directories
+build/
+bin/
+
+# Python cache
+__pycache__/
+*.pyc
